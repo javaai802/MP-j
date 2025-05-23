@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalAssignment</string>
+
+    <!-- 시/구 Spinner -->
+    <string-array name="city_array">
+        <item>시/구</item>
+        <item>서울</item>
+        <item>부산</item>
+        <item>대구</item>
+    </string-array>
+
+    <!-- 동 Spinner -->
+    <string-array name="district_array">
+        <item>동</item>
+        <item>강남구</item>
+        <item>해운대구</item>
+        <item>중구</item>
+    </string-array>
+</resources>
